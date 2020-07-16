@@ -1,0 +1,9 @@
+Training & Testing vs real world data Scenario
+
+Preparing student for exams – say BECE or SSCE,  and as instructor, you set 100 questions. If all the 100 questions are used to train the students and access them in mock, they would master these questions and your best students can “over fit” the process. However, there can be suprises in the final WAEC exams. 
+
+Ideally, with the 100 questions, you split the questions in 75 and 25. 75 to train the students, and the remaining 25 which the students have not seen, will be used for future testing and evaluation in mock and accessment. So you go through and solve the 75 questions with them in the preparation process, and when you want to test them, you use the 25 questions, which the students have not seen before to test their readiness for the main exams.
+
+Training Questions – 75 questions, instructor lead, go through all of these to train the students
+Test Questions – 25 Questions, students have never seen before, use that in mock, to access how well the students are ready for the real exams from WAEC
+If the students perform well in this process, then you know for sure they are ready for the real world exams by WAEC
